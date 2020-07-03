@@ -1,0 +1,2 @@
+# json
+mendapatkan koordinat manual
